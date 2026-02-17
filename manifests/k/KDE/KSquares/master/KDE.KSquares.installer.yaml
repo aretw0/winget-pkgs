@@ -9,14 +9,14 @@ ProductCode: ksquares
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-797-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 7F8394CA108223D5ED6AF74693235B49B5DAC00DDB1CA86088BC06F8CD2EE99E
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-806-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 648B90A026BE727E5228BCE954F1BD45734CA2EB87DB25D89B3E33F0025B669D
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-797-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 7F8394CA108223D5ED6AF74693235B49B5DAC00DDB1CA86088BC06F8CD2EE99E
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksquares/master/windows/ksquares-master-806-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 648B90A026BE727E5228BCE954F1BD45734CA2EB87DB25D89B3E33F0025B669D
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

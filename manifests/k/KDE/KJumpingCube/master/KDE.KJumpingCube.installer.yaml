@@ -9,14 +9,14 @@ ProductCode: kjumpingcube
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-819-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: B8DCF1FA69068611FF8076EAA2DF77E1254C791DC6E9426006E28F5A0CAD6DA1
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-825-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: F6555B855B651963D06F41DF023117412F4179DBC0EB89056501F24626D2720E
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-819-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: B8DCF1FA69068611FF8076EAA2DF77E1254C791DC6E9426006E28F5A0CAD6DA1
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kjumpingcube/master/windows/kjumpingcube-master-825-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: F6555B855B651963D06F41DF023117412F4179DBC0EB89056501F24626D2720E
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
